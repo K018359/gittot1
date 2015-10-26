@@ -9,5 +9,6 @@
 		{
 			echo $this->result;
 		}
+
 	}
 ?>
